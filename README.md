@@ -48,3 +48,12 @@ Clona el repositorio:
 git clone https://github.com/tuusuario/ai-support-tickets.git
 cd ai-support-tickets
 ```
+
+---
+
+## Contacto
+
+Si quieres construir algo increíble juntos, puedes contactarme:
+
+- Correo: [david_martinez_0214@hotmail.com](mailto:david_martinez_0214@hotmail.com)
+- Portfolio: [https://david-developer.vercel.app](https://david-developer.vercel.app)
